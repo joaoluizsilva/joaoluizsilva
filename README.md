@@ -1,5 +1,5 @@
 ### Olá, meu nome é João Luiz. 👋
-🔭 Hoje eu trabalho com Dev full stack junior na Procar do Brasil. www.procardobrasil.com.br <br>
+🔭 Hoje eu trabalho como Dev full stack junior na Procar do Brasil. www.procardobrasil.com.br <br>
 📫 você pode me manda um email -> joaoluizsilva.jls@gmail.com <br>
 🌱 Atualmente estou aprendendo ... Php, Html, Css, Js, Jquery; <br>
 🎞 Amo filmes Nerd <br>
